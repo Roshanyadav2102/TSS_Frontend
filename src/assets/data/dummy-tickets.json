@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "subject": "Email   certificate expired",
+    "status": "Client response pending",
+    "addedAt": "2023-11-18",
+    "history": [
+      {
+        "date": "2023-11-18",
+        "message": "Issue",
+        "messageBy": "client"
+      },
+      {
+        "date": "23-11-18",
+        "message": "Solution",
+        "messageBy": "operator"
+      },
+      {
+        "date": "23-11-18",
+        "message": "Solved",
+        "messageBy": "client"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "subject": "Issue with Email certificate",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  },
+  {
+    "id": 3,
+    "subject": "Issue app crashing",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  },
+  {
+    "id": 4,
+    "subject": "Issue with ssl certificate",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  },
+  {
+    "id": 5,
+    "subject": "Issue with ssl certificate",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  },
+  {
+    "id": 6,
+    "subject": "Issue with ssl certificate",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  },
+  {
+    "id": 7,
+    "subject": "Issue with ssl certificate",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  },
+  {
+    "id": 8,
+    "subject": "Issue with ssl certificate",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  },
+  {
+    "id": 9,
+    "subject": "Issue with ssl certificate",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  },
+  {
+    "id": 10,
+    "subject": "Issue with ssl certificate",
+    "status": "Client response pending",
+    "addedAt": "2023-11-10"
+  }
+]
